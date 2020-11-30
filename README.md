@@ -1,6 +1,6 @@
-# dadus-financeiro-backend
+# Implementacao-de-JWT-Laravel
 
-> Backend do Financeiro
+> Backend Implementado com JWT pronto para colocar dentro.
 
 ## Intalação
 
