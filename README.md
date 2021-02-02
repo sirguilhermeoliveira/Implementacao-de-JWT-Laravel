@@ -1,6 +1,6 @@
 # Implementacao-de-JWT-Laravel
 
-> Backend Implementado com JWT pronto para colocar dentro.
+> Backend Implementado com Autorização JWT.
 
 ## Intalação
 
